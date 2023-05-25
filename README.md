@@ -10,12 +10,12 @@ Welcome to my GitHub profile! I'm a passionate coder from Dhaka. I enjoy working
 
 I'm always eager to learn and improve my skills. Currently, I'm focusing on:
 
-- Fluttter
+- Flutter
 - Dart
 - Java
 - Firebase
 
-## 👯‍♀️ Let's collaborate
+## 🤝 Let's collaborate
 
 I'm always open to collaborating on interesting projects. If you have any ideas or would like to work together, feel free to reach out to me.
 
