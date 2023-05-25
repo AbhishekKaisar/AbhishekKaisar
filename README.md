@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @AbhishekKaisar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hello, I'm Abhishek Kaisar! 👋
 
-<!---
-AbhishekKaisar/AbhishekKaisar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a passionate coder from Dhaka. I enjoy working on projects.
+
+## 🔭 What I'm currently working on
+
+- University Assistant: A utility app for univerisity students.
+
+## 🌱 What I'm currently learning
+
+I'm always eager to learn and improve my skills. Currently, I'm focusing on:
+
+- Fluttter
+- Dart
+- Java
+- Firebase
+
+## 👯‍♀️ Let's collaborate
+
+I'm always open to collaborating on interesting projects. If you have any ideas or would like to work together, feel free to reach out to me.
+
+## 💬 Get in touch
+
+- Email: abhishekkaisar2015@gmail.com
+- Twitter: https://twitter.com/abhishek_kaisar
+- LinkedIn: https://www.linkedin.com/in/abhishek-kaisar/
+
+Thanks for visiting my profile! Feel free to explore my repositories and get in touch. I look forward to connecting with you.
+
+![](https://komarev.com/ghpvc/?username=AbhishekKaisar)
