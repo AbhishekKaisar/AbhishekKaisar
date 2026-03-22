@@ -1,6 +1,6 @@
 # Hello, I'm Abhishek Kaisar (Abhoy)! 👋
 
-Welcome to my GitHub profile! I'm a Computer Science student at North South University in Dhaka, passionate about Machine Learning, Computer Vision, and building impactful technology.
+Welcome to my GitHub profile! I'm a Computer Science student at **North South University** in Dhaka, passionate about Machine Learning, Computer Vision, and building impactful technology.
 
 ## 🔭 What I'm currently working on
 
