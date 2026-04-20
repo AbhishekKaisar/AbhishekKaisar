@@ -16,7 +16,7 @@ I'm always eager to learn and expand my technical toolkit. Currently, my focus i
 - Web Development & Deployment (Next.js)
 - Mobile App Development (Flutter, Dart, Java, Firebase)
 
-## 🏆 Achievements & Highlights
+## 🏆 Highlights
 
 - Participated in the **NASA Space Apps Challenge 2025** with Team Syndicate, developing a Space Biology Knowledge Engine.
 - Completed Stanford University's 6-week Code In Place Python course with one project.
